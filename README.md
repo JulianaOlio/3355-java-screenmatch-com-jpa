@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![Programação-Formação Java](https://github.com/iasminaraujoc/3355-java-screenmatch-com-jpa/assets/84939115/3c51e000-962d-4dc9-97fc-1d384e2511a2)
 
@@ -15,3 +16,7 @@ Projeto desenvolvido no segundo curso da formação Avançando com Java da Alura
 - Conhecer vários tipos de banco de dados e utilizar o PostgreSQL;
 - Trabalhar com vários tipos de consultas ao banco de dados;
 - Aprofundar na interface JPARepository
+=======
+# 3355-java-screenmatch-com-jpa
+Estudo JPA
+>>>>>>> 63d65e9924bb228336163157816c804675550e88
